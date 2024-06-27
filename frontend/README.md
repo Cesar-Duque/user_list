@@ -8,8 +8,6 @@ Aplicação para gerenciar usuários utilizando Node.js, Express, MongoDB, React
 2. [Configuração do Backend](#configuração-do-backend)
 3. [Configuração do Frontend](#configuração-do-frontend)
 4. [Como Usar](#como-usar)
-5. [Contribuição](#contribuição)
-6. [Licença](#licença)
 
 ## Instalação
 
