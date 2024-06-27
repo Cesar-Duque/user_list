@@ -38,14 +38,11 @@ npm install
 
 ## Configuração do Frontend
 
-1. Configure a URL base da API:
-- Verifique se a URL base da API em `services/api.js` aponta para o servidor backend correto:
-  ```javascript
-  const api = axios.create({
-    baseURL: 'http://localhost:5000/api',
-  });
-  ```
-
+1. Configure a URL  da API:
+   ```
+    'http://localhost:5000/api',
+   ```
+   
 ## Como Usar
 
 1. Inicie o servidor backend:
