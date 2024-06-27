@@ -1,6 +1,6 @@
 # Projeto de Exemplo
 
-Aplicação para gerenciar usuários utilizando Node.js, Express, MongoDB, React e Axios.
+Aplicação para gerenciar usuários utilizando Node.js, Express, MongoDB, React, Axios e Nodemon.
 
 ## Índice
 
@@ -47,7 +47,7 @@ npm install
 
 1. Inicie o servidor backend:
 cd backend
-node server.js
+npm start
 
 2. Inicie o servidor frontend em outro terminal:
 cd frontend
